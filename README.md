@@ -1,2 +1,2 @@
 # E-commerce-website-
-Make a simple project of e-commerce platform using HTML and CSS
+With the help of tutorials I have made Amazone clone using css and gtml.
